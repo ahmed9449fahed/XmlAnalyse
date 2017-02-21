@@ -1,0 +1,114 @@
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\XmlAnalyzerWPF.exe.config
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\XmlAnalyzerWPF.exe
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\XmlAnalyzerWPF.pdb
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\DevExpress.Mvvm.v15.2.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\DevExpress.Xpf.Core.v15.2.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\DevExpress.Xpf.LayoutControl.v15.2.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\DevExpress.Xpf.Themes.DXStyle.v15.2.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\DevExpress.Xpf.Core.v15.2.xml
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\DevExpress.Mvvm.v15.2.xml
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\DevExpress.Xpf.LayoutControl.v15.2.xml
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\de\DevExpress.Xpf.Core.v15.2.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\es\DevExpress.Xpf.Core.v15.2.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\ja\DevExpress.Xpf.Core.v15.2.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\ru\DevExpress.Xpf.Core.v15.2.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\de\DevExpress.Xpf.LayoutControl.v15.2.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\es\DevExpress.Xpf.LayoutControl.v15.2.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v15.2.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v15.2.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\obj\Debug\MainWindow.baml
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\obj\Debug\AnalyzerUserControl.g.cs
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\obj\Debug\App.g.cs
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF_MarkupCompile.cache
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF_MarkupCompile.lref
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\obj\Debug\AnalyzerUserControl.baml
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF.g.resources
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF.Properties.Resources.resources
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF.csproj.GenerateResource.Cache
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF.exe.licenses
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF.exe
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF.pdb
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF.csprojResolveAssemblyReference.cache
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\DevExpress.Xpf.Grid.v15.2.Core.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\DevExpress.Xpf.Grid.v15.2.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\DevExpress.Xpf.Grid.v15.2.xml
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\DevExpress.Xpf.Grid.v15.2.Core.xml
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\de\DevExpress.Xpf.Grid.v15.2.Core.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\es\DevExpress.Xpf.Grid.v15.2.Core.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\ja\DevExpress.Xpf.Grid.v15.2.Core.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\ru\DevExpress.Xpf.Grid.v15.2.Core.resources.dll
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\XmlAnalyzerWPF.exe.manifest
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\bin\Debug\XmlAnalyzerWPF.application
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF.exe.manifest
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\Git_XMl_Analyser\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF.application
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\XmlAnalyzerWPF.exe.config
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\XmlAnalyzerWPF.exe.manifest
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\XmlAnalyzerWPF.application
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\XmlAnalyzerWPF.exe
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\XmlAnalyzerWPF.pdb
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\DevExpress.Mvvm.v15.2.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\DevExpress.Xpf.Core.v15.2.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\DevExpress.Xpf.Grid.v15.2.Core.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\DevExpress.Xpf.Grid.v15.2.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\DevExpress.Xpf.LayoutControl.v15.2.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\DevExpress.Xpf.Themes.DXStyle.v15.2.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\DevExpress.Xpf.Core.v15.2.xml
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\DevExpress.Mvvm.v15.2.xml
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\DevExpress.Xpf.Grid.v15.2.xml
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\DevExpress.Xpf.Grid.v15.2.Core.xml
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\DevExpress.Xpf.LayoutControl.v15.2.xml
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\de\DevExpress.Xpf.Core.v15.2.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\es\DevExpress.Xpf.Core.v15.2.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\ja\DevExpress.Xpf.Core.v15.2.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\ru\DevExpress.Xpf.Core.v15.2.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\de\DevExpress.Xpf.Grid.v15.2.Core.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\es\DevExpress.Xpf.Grid.v15.2.Core.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\ja\DevExpress.Xpf.Grid.v15.2.Core.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\ru\DevExpress.Xpf.Grid.v15.2.Core.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\de\DevExpress.Xpf.LayoutControl.v15.2.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\es\DevExpress.Xpf.LayoutControl.v15.2.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v15.2.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v15.2.resources.dll
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF.csprojResolveAssemblyReference.cache
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\obj\Debug\AnalyzerUserControl.g.cs
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\obj\Debug\App.g.cs
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF_MarkupCompile.cache
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF_MarkupCompile.lref
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\obj\Debug\AnalyzerUserControl.baml
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\obj\Debug\MainWindow.baml
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF.g.resources
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF.Properties.Resources.resources
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF.csproj.GenerateResource.Cache
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF.exe.licenses
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF.exe.manifest
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF.application
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF.exe
+C:\Users\afa\Documents\XmlAnalysetest\XmlAnalyzerWPF\obj\Debug\XmlAnalyzerWPF.pdb

@@ -1,0 +1,15 @@
+﻿<dx:DXWindow
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+        xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars"
+        xmlns:local="clr-namespace:XmlAnalyzerWPF" x:Class="XmlAnalyzerWPF.MainWindow"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+       
+            <local:AnalyzerUserControl VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
+       
+
+
+    </Grid>
+</dx:DXWindow>

@@ -1,0 +1,11 @@
+﻿{
+  "dependencies": {
+    "System.Xml.XDocument": "4.3.0-preview1-24530-04"
+  },
+  "frameworks": {
+    "net461": {}
+  },
+  "runtimes": {
+    "win": {}
+  }
+}

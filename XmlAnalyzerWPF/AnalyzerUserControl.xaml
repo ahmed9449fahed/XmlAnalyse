@@ -1,0 +1,97 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:XmlAnalyzerWPF"
+             xmlns:dxlc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol" xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid" x:Class="XmlAnalyzerWPF.AnalyzerUserControl"
+             mc:Ignorable="d" 
+             d:DesignHeight="700" d:DesignWidth="1700" Loaded="UserControl_Loaded">
+    <Grid>
+
+
+        <dxlc:LayoutControl HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Orientation="Vertical">
+            <dxlc:LayoutGroup>
+                <Menu Height="30" FontSize="14" HorizontalAlignment="Stretch" VerticalAlignment="Top">
+                    <MenuItem Header="File">
+                        <MenuItem x:Name="Btnopen" Header="Open" Click="Btnopen_OnClick"/>
+                        <MenuItem x:Name="Btnclose"  Header="Close" Click="Btnclose_OnClick"/>
+                    </MenuItem>
+                    <MenuItem x:Name="Btnhelp" Header="Help">
+                        <MenuItem Header="how To Use This Application"/>
+                    </MenuItem>
+                    <MenuItem x:Name="Btnabout" Header="About"/>
+                </Menu>
+            </dxlc:LayoutGroup>
+            <dxlc:LayoutGroup Orientation="Horizontal" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                <TreeView Name="TreeView1" MaxWidth="700" MinWidth="400" Background="PowderBlue" HorizontalAlignment="Left" VerticalAlignment="Stretch" SelectedItemChanged="TreeView1_OnSelectedItemChanged"/>
+                <dxlc:LayoutGroup Orientation="Vertical">
+                    <GroupBox MaxHeight="150" Header="Filter" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" MaxWidth="1200">
+                        <dxlc:LayoutGroup Orientation="Horizontal">
+                        <GroupBox Height="60" HorizontalAlignment="Left" MaxWidth="500">
+                            <dxlc:LayoutGroup Orientation="Horizontal" VerticalAlignment="Top">
+                                <CheckBox Name="CheckBoxDoppelte" Height="40" Click="CheckBoxDoppelte_OnClick">Doppelte Einträge entfernen</CheckBox>
+                                <CheckBox Name="CheckBoxLeere" Height="40" Click="CheckBoxLeere_OnClick">Leere Einträge entfernen</CheckBox>
+                                <CheckBox Name="CheckBoxLeerzeichen" Height="40" Click="CheckBoxLeerzeichen_OnClick">Leerzeichen entfernen</CheckBox>
+                            </dxlc:LayoutGroup>
+                        </GroupBox>
+                            <GroupBox Header="Sortierung" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                                <dxlc:LayoutGroup Orientation="Vertical">
+                                    <ComboBox Name="ComboBoxSortirungType" VerticalAlignment="Stretch" MinWidth="150" HorizontalAlignment="Left"  Height="25" SelectionChanged="ComboBoxSortirungType_OnSelectionChanged">
+                                        
+                                    </ComboBox>
+                                    <dxlc:LayoutGroup Orientation="Horizontal">
+                                        <RadioButton Name="RadioButtonAufwärts" Height="25" Click="RadioButtonAufwärts_OnClick">Aufwärts</RadioButton>
+                                        <RadioButton Name="RadioButtonAbfwärts" Height="25" Click="RadioButtonAbfwärts_OnClick">Abfwärts</RadioButton>
+                                        <RadioButton Name="RadioButtonOhneSortierung" Height="25" Click="RadioButtonOhneSortierung_OnClick">OhneSortierung</RadioButton>
+                                    </dxlc:LayoutGroup>
+                                </dxlc:LayoutGroup>
+                            </GroupBox>
+                        </dxlc:LayoutGroup>
+
+                    </GroupBox>
+                    <dxg:GridControl Name="GridControl1" ItemsSource="{Binding DataBinding}" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" MaxWidth="1200">
+                    <dxg:GridControl.View>
+                        <dxg:TableView AllowPerPixelScrolling="True" ShowTotalSummary="True"/>
+                    </dxg:GridControl.View>
+                </dxg:GridControl>
+                </dxlc:LayoutGroup>
+                <dxlc:LayoutGroup MaxWidth="270" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Orientation="Vertical">
+                    <GroupBox Margin="20,200,20,200" MaxWidth="270" Header="Information" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                        <dxlc:LayoutGroup MaxWidth="280"  Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Stretch" >
+                    <dxlc:LayoutGroup Orientation="Horizontal">
+                                <Label Height="30" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" MaxWidth="100">Gesamt Anzahl</Label>
+                                <Label Name="LblGesamtAnzahl" Height="30"  Margin="30,0,0,0"></Label>
+                    </dxlc:LayoutGroup>
+                    <dxlc:LayoutGroup Orientation="Horizontal">
+                                <Label Height="30" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" MaxWidth="100">Anzahl</Label>
+                                <Label Name="LblAnzahle" Height="30"  Margin="30,0,0,0"></Label>
+                    </dxlc:LayoutGroup>
+                    <dxlc:LayoutGroup Orientation="Horizontal">
+                                <Label Height="30" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" MaxWidth="100">AnzahlProzent</Label>
+                                <Label Name="LblAnzahlProzent" Height="30"  Margin="30,0,0,0"></Label>
+                    </dxlc:LayoutGroup>
+                    <dxlc:LayoutGroup Orientation="Horizontal">
+                                <Label Height="30" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" MaxWidth="100">MaximumZeichen</Label>
+                                <Label Name="LblmaximumZeichen" Height="30"  Margin="30,0,0,0"></Label>
+                    </dxlc:LayoutGroup>
+                    <dxlc:LayoutGroup Orientation="Horizontal">
+                                <Label Height="30" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" MaxWidth="100">DataType</Label>
+                        <Label Name="LblDataType" Height="30" Margin="30,0,0,0"></Label>
+                    </dxlc:LayoutGroup>
+                        </dxlc:LayoutGroup>
+                    </GroupBox>
+
+
+                </dxlc:LayoutGroup>
+                    
+
+
+            </dxlc:LayoutGroup>
+
+
+        </dxlc:LayoutControl>
+
+
+    </Grid>
+</UserControl>
